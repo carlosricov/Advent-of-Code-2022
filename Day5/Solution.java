@@ -53,7 +53,6 @@ public class Solution {
             int fromColumn = Integer.parseInt(lineParts[3]);
             int toColumn = Integer.parseInt(lineParts[5]);
 
-            List<String> crates = new ArrayList<>();
             Stack<String> crane = new Stack<>();
 
             for (int i = 0; i < moveCounter; i++) {
