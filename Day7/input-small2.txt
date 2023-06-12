@@ -1,0 +1,29 @@
+$ cd /
+$ ls
+dir a 
+21418478 tt
+10 ef
+dir b
+$ cd a
+$ ls
+dir c
+dir d 
+$ cd c 
+$ ls
+20 fkewmf
+20 efefke
+$ cd ..
+$ cd d
+$ ls
+230492042 fleflfm 
+$ cd .. 
+$ cd .. 
+$ cd b
+$ ls 
+2140 ekfmkf
+2232 fkmekfe
+503 efelf 
+dir kdjf 
+$ cd kdjf 
+$ ls
+20 ekfekd 
